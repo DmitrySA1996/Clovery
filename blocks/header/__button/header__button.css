@@ -1,0 +1,11 @@
+.header__button {
+    padding: 10px 35px;
+    background: #F4FBF9;
+    color: #24475B;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+}
