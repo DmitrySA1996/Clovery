@@ -1,0 +1,7 @@
+.header__menu {
+    padding: 26px 177px;
+    box-shadow: 0px 6px 10px rgba(19, 40, 29, 0.098);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
