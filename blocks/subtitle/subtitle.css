@@ -1,0 +1,12 @@
+.subtitle {
+    margin: 0;
+    position: absolute;
+    left: 547px;
+    top: 148px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    z-index: 1;
+}

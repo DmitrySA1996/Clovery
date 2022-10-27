@@ -1,0 +1,12 @@
+.title {
+    margin: 0;
+    position: absolute;
+    left: 547px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    z-index: 1;
+}

@@ -1,0 +1,5 @@
+.header__menu {
+    margin: 47px 0 46px 0;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,13 @@
+.header__menu-bar {
+    margin-right: 20px;
+    line-height: 16px;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+}
+
+.header__menu-bar:last-child {
+    margin-right: 0;
+}
