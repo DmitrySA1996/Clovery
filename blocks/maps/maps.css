@@ -1,0 +1,6 @@
+.maps {
+    padding: 0 175px;
+    background: #FBFCF5;
+    display: flex;
+    flex-direction: column;
+}

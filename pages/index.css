@@ -5,7 +5,9 @@
 
 /* секция title/subtitle-----------------------------------------------------------------------------*/
 @import url(../blocks/title/title.css);
+@import url(../blocks/title/_theme/title_theme_white.css);
 @import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/subtitle/_theme/subtitle_theme_white.css);
 /* ------------------------------------------------------------------------------------------*/
 
 
@@ -19,12 +21,15 @@
 @import url(../blocks/button/button.css);
 @import url(../button/_theme/button_theme_blue.css);
 @import url(../blocks/button-group/button-group.css);
+@import url(../blocks/_theme/button-group_theme_white.css);
 /* ------------------------------------------------------------------------------------------*/
 
 
 /* секция cards-----------------------------------------------------------------------------*/
 @import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/_theme/cards_theme_white.css);
 @import url(../blocks/cards/__Sustainability/cards__Sustainability.css);
+@import url(../blocks/cards/__cloverly-api/cards__cloverly-api.css);
 /* ------------------------------------------------------------------------------------------*/
 
 
@@ -37,6 +42,12 @@
 @import url(../blocks/header/__phone/header__phone.css);
 @import url(../blocks/header/__page/header__page.css);
 @import url(../blocks/header/__company/header__company.css);
+/* ------------------------------------------------------------------------------------------*/
+
+
+/* секция maps-----------------------------------------------------------------------------*/
+@import url(../blocks/maps/maps.css);
+@import url(../blocks/maps/__image/maps__image.css);
 /* ------------------------------------------------------------------------------------------*/
 
 

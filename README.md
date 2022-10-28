@@ -7,5 +7,3 @@
 ## Description
 
 The site was created for educational purposes based on a layout from figma. Dedicated to the topic of ecology and nature conservation. This topic is very relevant now because environmental pollution, garbage, etc. occurs all over the world.
-
-The project is under development
