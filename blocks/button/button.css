@@ -10,7 +10,7 @@
     color: #013A51;
     width: 262px;
     height: 50px;
-    border: none;
+    box-sizing: border-box;
 }
 
 .button:last-child {
