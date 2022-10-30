@@ -1,0 +1,13 @@
+.footer__menu-bar {
+    text-decoration: none;
+    margin-right: 25px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.footer__menu-bar:last-child {
+    margin-right: 0;
+}

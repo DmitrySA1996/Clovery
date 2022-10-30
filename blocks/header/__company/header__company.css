@@ -1,0 +1,9 @@
+.header__company {
+    margin: 0 auto;
+    width: 1130px;
+    height: 100px;
+    background-color: #FBFCF5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

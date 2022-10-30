@@ -1,0 +1,7 @@
+.cards__column {
+    margin: 0 0 60px 0;
+}
+
+.cards__column:last-child {
+ margin-bottom: 0px;
+}

@@ -1,0 +1,7 @@
+.cards {
+    margin: 109px 0 360px 0;
+    width: 536px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
