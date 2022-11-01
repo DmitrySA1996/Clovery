@@ -55,6 +55,7 @@
 @import url(../blocks/cards/_theme/cards_theme_white.css);
 @import url(../blocks/cards/__Sustainability/cards__Sustainability.css);
 @import url(../blocks/cards/__cloverly-api/cards__cloverly-api.css);
+@import url(../blocks/cards/__cloverly-api/_none/cards__cloverly-api_none_margin.css);
 @import url(../blocks/cards/_none/cards_none_margin.css);
 /* ------------------------------------------------------------------------------------------*/
 
@@ -84,6 +85,7 @@
 
 /* секция emissions-----------------------------------------------------------------------------*/
 @import url(../blocks/emissions/emissions.css);
+@import url(../blocks/__cards/emissions__cards.css);
 /* ------------------------------------------------------------------------------------------*/
 
 /* секция simple-----------------------------------------------------------------------------*/
